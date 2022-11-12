@@ -2,6 +2,16 @@
 
 JavaScript library for parsing subtitles in PGS format (`.sup` extension). Written with help from an excellent [blog post](https://blog.thescorpius.com/index.php/2017/07/15/presentation-graphic-stream-sup-files-bluray-subtitle-format/) on the format and from inspecting other parser implementations.
 
+## Installation
+
+```
+# npm
+npm install pgs-parser --save
+
+# Yarn
+yarn add pgs-parser
+```
+
 ## Example Usage
 
 ```ts
