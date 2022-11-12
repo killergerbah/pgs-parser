@@ -4,7 +4,9 @@
   "description": "Parser for subtitles in PGS format (.sup extension)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist/**/*"],
+  "files": [
+    "dist/**/*"
+  ],
   "repository": "https://github.com/killergerbah/pgs-parser",
   "author": "Raphael-Joel Lim",
   "license": "MIT",

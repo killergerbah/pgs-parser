@@ -1,4 +1,14 @@
 node_modules
 dist
 .DS_Store
-.yarn
+yarn-debug.log*
+yarn-error.log*
+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
