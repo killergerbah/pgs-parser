@@ -7,7 +7,11 @@
   "files": [
     "dist/**/*"
   ],
-  "repository": "https://github.com/killergerbah/pgs-parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/killergerbah/pgs-parser.git"
+  },
+  "homepage": "https://github.com/killergerbah/pgs-parser",
   "author": "Raphael-Joel Lim",
   "license": "MIT",
   "devDependencies": {
