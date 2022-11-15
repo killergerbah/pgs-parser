@@ -1,6 +1,6 @@
 {
   "name": "pgs-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parser for subtitles in PGS format (.sup extension)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
